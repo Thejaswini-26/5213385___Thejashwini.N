@@ -1,3 +1,4 @@
+//sales_by_match program
 int sockMerchant(int n, int ar_count, int* ar) {
     int count[101]={0};
     int pairs_of_socks=0;
